@@ -24,4 +24,10 @@ I developed this  Online Payment Project using HTML CSS &amp; JavaScript .
 
 > Now add “index.js” to the javascript file before the <body> tag ends in the “index.html” file. So that the javascript will be rendered with the body tag in web browsers.
 
-> In JavaScript, we will add the logic to split the card number when the user inputs their card number.
+>  In JavaScript, we will add the logic to split the card number when the user inputs their card number.
+
+
+> Project Structure:
+
+> ![image](https://github.com/user-attachments/assets/76de3741-e3d5-4aa1-b700-3fac737ef025)
+
