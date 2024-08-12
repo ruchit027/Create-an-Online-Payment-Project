@@ -6,14 +6,14 @@ I developed this  Online Payment Project using HTML CSS &amp; JavaScript .
 > Here, we will learn about the project’s structure before beginning to code each page individually. To ensure adequate understanding, we also gave the project’s output after it was created.
 
 > Prerequisites:
- HTML
- CSS
- JAVASCRIPT
+ [HTML]
+ [CSS]
+ [JAVASCRIPT]
 
 > Approach
-> Create “index.html” file, this is the skeleton of the project. Create the main structure using outer <div>,and other HTML tags.
+> Create “index.html” file, this is the skeleton of the project. Create the main structure using outer (div),and other HTML tags.
 
-> Create two columns in the <form>, one for the billing address and the other for the payment. In this project, we will create a payment using cards only, that is why we will use an 
+> Create two columns in the (form), one for the billing address and the other for the payment. In this project, we will create a payment using cards only, that is why we will use an 
   image of cards after that added the checkout button.
 
 > Now add the CSS file <head> section of “index.html”. Add background color,margin,and padding. Here we added responsiveness, and hover effects for a better view.
