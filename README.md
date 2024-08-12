@@ -1,5 +1,5 @@
 # Create-an-Online-Payment-Project
-I developed this  Online Payment Project using HTML CSS &amp; JavaScript .
+> I developed this  Online Payment Project using HTML CSS &amp; JavaScript .
 
 > In this article, We will create a responsive online payment page using HTML, CSS & Javascript.
 
