@@ -31,3 +31,8 @@ I developed this  Online Payment Project using HTML CSS &amp; JavaScript .
 
 > ![image](https://github.com/user-attachments/assets/76de3741-e3d5-4aa1-b700-3fac737ef025)
 
+> OUTPUT :
+
+> ![image](https://github.com/user-attachments/assets/f06b8519-9897-4caf-aa1f-89dccc6a9698)
+ 
+
