@@ -6,11 +6,13 @@ I developed this  Online Payment Project using HTML CSS &amp; JavaScript .
 > Here, we will learn about the project’s structure before beginning to code each page individually. To ensure adequate understanding, we also gave the project’s output after it was created.
 
 > Prerequisites:
- [HTML]
 > 
- [CSS]
+HTML
+> 
+ CSS
 >
- [JAVASCRIPT]
+ JAVASCRIPT
+>
 
 > Approach
 > Create “index.html” file, this is the skeleton of the project. Create the main structure using outer (div),and other HTML tags.
